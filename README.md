@@ -36,7 +36,5 @@ Training was done on g2.2xlarge spot instance of AWS. Mutltiple commuity AMIs ca
 ### Running the application
 For details on how to run the demo app, check the docs in `app/` folder.
 
-### Feedback
-If you have any feedback or suggestions, do ping me at anant718@gmail.com
 
 
