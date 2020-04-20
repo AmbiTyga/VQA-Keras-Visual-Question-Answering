@@ -1,5 +1,5 @@
 import numpy as np
-from keras.models import model_from_json#load_model
+from keras.models import model_from_json #load_model
 from keras.callbacks import ModelCheckpoint
 import os
 import argparse
